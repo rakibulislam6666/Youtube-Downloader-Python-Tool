@@ -26,5 +26,3 @@ python ytd.py
 ```
 
 3. Enter a YouTube URL, select your preferred format, and enjoy your download!
-
-Let me know if you want me to add more sections like installation or troubleshooting!
